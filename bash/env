@@ -46,3 +46,4 @@ then
 
   [ $OSTYPE == 'cygwin' ] && PATH=~/bin/cygwin:$PATH
 fi
+
