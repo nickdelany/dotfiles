@@ -1,3 +1,2 @@
-alias h=history
-alias ls='ls -AF'
-alias vi='/cygdrive/c/Program\ Files\ \(x86\)/Vim/vim73/vim.exe'
+alias hgk='/cygdrive/c/Program\ Files/TortoiseHg/thgw.exe'
+alias hg=hg.cmd
