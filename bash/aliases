@@ -1,2 +1,5 @@
 alias hgk='/cygdrive/c/Program\ Files/TortoiseHg/thgw.exe'
-alias hg=hg.cmd
+alias hg='/cygdrive/c/Program\ Files/TortoiseHg/hg.exe'
+
+alias vi='/cygdrive/c/Program\ Files\ \(x86\)/vim/vim74/vim.exe'
+alias vim='/cygdrive/c/Program\ Files\ \(x86\)/vim/vim74/vim.exe'
